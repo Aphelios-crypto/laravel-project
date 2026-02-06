@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My First Blade</title>
+    <title>First OJT Tasks</title>
 </head>
 <body>
     <h1>Hello World From Team 4s</h1>
